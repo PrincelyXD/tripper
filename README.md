@@ -1,6 +1,4 @@
-Here’s a professional `README.md` for your project:
 
----
 
 # Tripper
 
